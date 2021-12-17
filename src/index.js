@@ -7,6 +7,6 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 <b>some test</b>
-<p>testttt123456789</p>
+<p>testttt123456789zzz</p>
   </div>
 `;
