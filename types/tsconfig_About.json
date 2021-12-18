@@ -1,0 +1,9 @@
+{
+  "extends": "velo-types/configs/tsconfig.pages.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "public/*": ["../../public/*"]
+    }
+  }
+}
